@@ -1,0 +1,10 @@
+Fonts used in this design;
+
+Font: Boogaloo, 
+Author: John Vargas Beltrán, 
+Url: http://www.fontsquirrel.com/fonts/boogaloo; 
+
+Font: Short Stack, 
+Author: Sorkin Type Co, 
+Url: http://www.fontsquirrel.com/fonts/short-stack; 
+

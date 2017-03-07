@@ -1,0 +1,10 @@
+Fonts used in this design;
+
+Font: DayPosterBlack, 
+Author: Nick's Fonts, 
+Url: http://www.fontsquirrel.com/fonts/DayPosterBlack; 
+
+Font: Sling, 
+Author: STAR Retrieval Systems, 
+Url: http://www.fontsquirrel.com/fonts/Sling; 
+
